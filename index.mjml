@@ -42,16 +42,16 @@
     <mj-section>
       <mj-column>
         <mj-text padding="0 30px 30px" font-size="36px">January 2023 Newsletter</mj-text>
-        <mj-image src="https://github.com/tylersortijas/zoom-newsletter-email/blob/main/assets/header-content.png?raw=true" alt="Lady on the phone" />
+        <mj-image src="./assets/header-content.png?raw=true" alt="Lady on the phone" />
         <mj-text font-size="17px" font-weight="light" line-height="25px">Zoom invites you to our next <a href="https://zoom.com/">Work Transformation Summit on January 18th, 2023,</a> dedicated to using technology to drive growth in every economic climate.</mj-text>
-        <mj-image src="https://github.com/tylersortijas/zoom-newsletter-email/blob/main/assets/join-us.png?raw=true" alt="Join us list" />
+        <mj-image src="./assets/join-us.png?raw=true" alt="Join us list" />
         <mj-text padding="50px 30px 60px"><a class="button" href="https://zoom.com/">Register today</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="30px 20px 40px 0">
       <mj-group>
         <mj-column css-class="section-icons">
-          <mj-image src="https://github.com/tylersortijas/zoom-newsletter-email/blob/main/assets/news.png?raw=true" />
+          <mj-image src="./assets/news.png?raw=true" />
         </mj-column>
         <mj-column>
           <mj-text padding="20px 0 0" font-size="30px" font-weight="bold">Latest News</mj-text>
@@ -79,7 +79,7 @@
     <mj-section padding="30px 20px 70px 0">
       <mj-group>
         <mj-column css-class="section-icons">
-          <mj-image src="https://github.com/tylersortijas/zoom-newsletter-email/blob/main/assets/webinar.png?raw=true" />
+          <mj-image src="./assets/webinar.png?raw=true" />
         </mj-column>
         <mj-column>
           <mj-text padding="20px 0 0" font-size="30px" font-weight="bold">Webinars</mj-text>
@@ -105,7 +105,7 @@
     <mj-section padding="30px 20px 70px 0">
       <mj-group>
         <mj-column css-class="section-icons">
-          <mj-image src="https://github.com/tylersortijas/zoom-newsletter-email/blob/main/assets/events.png?raw=true" />
+          <mj-image src="./assets/events.png?raw=true" />
         </mj-column>
         <mj-column>
           <mj-text padding="20px 0 0" font-size="30px" font-weight="bold">Zoom in the news</mj-text>
@@ -114,7 +114,7 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/tylersortijas/zoom-newsletter-email/blob/main/assets/variety.png?raw=true" width="200px" />
+        <mj-image src="./assets/variety.png?raw=true" width="200px" />
       </mj-column>
       <mj-column>
         <mj-text font-size="14px" padding="30px 20px 0" line-height="20px"><a href="#">Eric S. Yuan a Variety 500 recipient for 2022</a></mj-text>
@@ -122,7 +122,7 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/tylersortijas/zoom-newsletter-email/blob/main/assets/digi.png?raw=true" width="200px" />
+        <mj-image src="./assets/digi.png?raw=true" width="200px" />
       </mj-column>
       <mj-column>
         <mj-text font-size="14px" padding="30px 20px 0" line-height="20px"><a href="#">Zoom taps brand partnerships to give growth, new products a boost</a></mj-text>
@@ -130,7 +130,7 @@
     </mj-section>
     <mj-section padding="20px 0 70px">
       <mj-column>
-        <mj-image src="https://github.com/tylersortijas/zoom-newsletter-email/blob/main/assets/td.png?raw=true" width="200px" />
+        <mj-image src="./assets/td.png?raw=true" width="200px" />
       </mj-column>
       <mj-column>
         <mj-text font-size="14px" padding="30px 20px 0" line-height="20px"><a href="#">Zoom adds New Meeting Features, Curated Apps to Start 2023</a></mj-text>
@@ -138,12 +138,12 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-image src="https://github.com/tylersortijas/zoom-newsletter-email/blob/main/assets/catch-us.png?raw=true" width="300px" />
+        <mj-image src="./assets/catch-us.png?raw=true" width="300px" />
       </mj-column>
       <mj-column padding="50px 0">
-        <mj-image src="https://github.com/tylersortijas/zoom-newsletter-email/blob/main/assets/twitter.png?raw=true" width="40px" />
+        <mj-image src="./assets/twitter.png?raw=true" width="40px" />
         <mj-spacer height="70px" />
-        <mj-image src="https://github.com/tylersortijas/zoom-newsletter-email/blob/main/assets/instagram.png?raw=true" width="40px" />
+        <mj-image src="./assets/instagram.png?raw=true" width="40px" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#DFDFE4">
