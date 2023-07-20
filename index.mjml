@@ -1,0 +1,165 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+      }
+
+      .button {
+        text-decoration: none;
+        background-color: #0B5CFF;
+        color: white;
+        padding: 15px 30px;
+        border-radius: 30px;
+        font-size: 20px;
+      }
+
+      .button:hover {
+        color: white;
+      }
+
+      .links {
+        text-decoration: none;
+        font-weight: bold;
+        font-size: 16px
+      }
+    </mj-style>
+
+    <mj-style inline="inline">
+      .section-icons {
+        max-width: 120px;
+      }
+    </mj-style>
+
+  </mj-head>
+
+  <mj-body background-color="#ffffff">
+    <mj-section>
+      <mj-column>
+        <mj-image target="_blank" alt="Zoom logo" href="https://zoom.com/" src="http://127.0.0.1:5500/assets/logo.png" />
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text padding="0 30px 30px" font-size="36px">January 2023 Newsletter</mj-text>
+        <mj-image src="http://127.0.0.1:5500/assets/header-content.png" alt="Lady on the phone" />
+        <mj-text font-size="17px" font-weight="light" line-height="25px">Zoom invites you to our next <a href="https://zoom.com/">Work Transformation Summit on January 18th, 2023,</a> dedicated to using technology to drive growth in every economic climate.</mj-text>
+        <mj-image src="http://127.0.0.1:5500/assets/join-us.png" alt="Join us list" />
+        <mj-text padding="50px 30px 60px"><a class="button" href="https://zoom.com/">Register today</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="30px 20px 40px 0">
+      <mj-group>
+        <mj-column css-class="section-icons">
+          <mj-image src="http://127.0.0.1:5500/assets/news.png" />
+        </mj-column>
+        <mj-column>
+          <mj-text padding="20px 0 0" font-size="30px" font-weight="bold">Latest News</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section background-color="#E8E1D6">
+      <mj-column>
+        <mj-text>Meeting &amp; Chat</mj-text>
+        <mj-text font-size="20px" font-weight="bold">4 new features to make meetings better in the new year</mj-text>
+        <mj-text font-size="16px">As we ring in 2023, we can't wait to share new features to help you stay connected, enhance productivity, and create engaging experiences.</mj-text>
+        <mj-text><a class="links" href="#">Explore the features</a></mj-text>
+        <mj-spacer height="50px" />
+        <mj-text>Product</mj-text>
+        <mj-text font-size="20px" font-weight="bold">The truth about hybrid events and what the future holds</mj-text>
+        <mj-text font-size="16px">After asking 150 event marketers, we now have better insight into the future of hybrid events. If you're wondering where they'll be in a few years, keep reading.</mj-text>
+        <mj-text><a class="links" href="#">Discover what's to come</a></mj-text>
+        <mj-spacer height="50px" />
+        <mj-text>Company News</mj-text>
+        <mj-text font-size="20px" font-weight="bold">Here's how you used Zoom in 2022</mj-text>
+        <mj-text font-size="16px">We love seeing how y'all used Zoom during the past year, and we wanted to share some of the details. We pulled some metrics, sent out a survey, and combined it all to see how you used Zoom in 2022!</mj-text>
+        <mj-text><a class="links" href="#">Uncover the 2022 stats</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="30px 20px 70px 0">
+      <mj-group>
+        <mj-column css-class="section-icons">
+          <mj-image src="http://127.0.0.1:5500/assets/webinar.png" />
+        </mj-column>
+        <mj-column>
+          <mj-text padding="20px 0 0" font-size="30px" font-weight="bold">Webinars</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section padding="0 0 80px">
+      <mj-column>
+        <mj-text align="center" font-size="16px">January 25</mj-text>
+        <mj-text align="center" font-weight="bold" font-size="24px">What's New at Zoom</mj-text>
+        <mj-text align="center" font-size="20px">9am PT | 12pm ET</mj-text>
+        <mj-spacer height="40px" />
+        <mj-text align="center" font-size="16px">January 26</mj-text>
+        <mj-text align="center" font-weight="bold" font-size="24px">Connecting Hybrid Teams: Tips to Collaborate<br /> Effectively</mj-text>
+        <mj-text align="center" font-size="20px">9am PT | 12pm ET</mj-text>
+        <mj-spacer height="40px" />
+        <mj-text align="center" font-size="16px">January 31</mj-text>
+        <mj-text align="center" font-weight="bold" font-size="24px">Hardware Solutions For Your Hybrid Meetings</mj-text>
+        <mj-text align="center" font-size="20px">11am PT | 2pm ET</mj-text>
+        <mj-text padding="40px 0 0" align="center"><a class="links" href="#">See all webinars</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="30px 20px 70px 0">
+      <mj-group>
+        <mj-column css-class="section-icons">
+          <mj-image src="http://127.0.0.1:5500/assets/events.png" />
+        </mj-column>
+        <mj-column>
+          <mj-text padding="20px 0 0" font-size="30px" font-weight="bold">Zoom in the news</mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="http://127.0.0.1:5500/assets/variety.png" width="200px" />
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="14px" padding="30px 20px 0" line-height="20px"><a href="#">Eric S. Yuan a Variety 500 recipient for 2022</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="http://127.0.0.1:5500/assets/digi.png" width="200px" />
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="14px" padding="30px 20px 0" line-height="20px"><a href="#">Zoom taps brand partnerships to give growth, new products a boost</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px 0 70px">
+      <mj-column>
+        <mj-image src="http://127.0.0.1:5500/assets/td.png" width="200px" />
+      </mj-column>
+      <mj-column>
+        <mj-text font-size="14px" padding="30px 20px 0" line-height="20px"><a href="#">Zoom adds New Meeting Features, Curated Apps to Start 2023</a></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="http://127.0.0.1:5500/assets/catch-us.png" width="300px" />
+      </mj-column>
+      <mj-column padding="50px 0">
+        <mj-image src="http://127.0.0.1:5500/assets/twitter.png" width="40px" />
+        <mj-spacer height="70px" />
+        <mj-image src="http://127.0.0.1:5500/assets/instagram.png" width="40px" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#DFDFE4">
+      <mj-column>
+        <mj-text align="center" color="#9B91B0">Visit zoom.us</mj-text>
+        <mj-text align="center" color="#9B91B0">1-888-799-9666</mj-text>
+        <mj-text align="center" color="#9B91B0">Zoom Video Communications, Inc</mj-text>
+        <mj-text align="center" color="#9B91B0">55 Almaden Blvd #600 San Jose, CA, 95113, US</mj-text>
+        <mj-spacer height="50px" />
+        <mj-text align="center" color="#9B91B0">&copy; 2023 Zoom - All Rights Reserved</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="30px 65px 30px">
+      <mj-column>
+        <mj-text align="center" color="#9B91B0">You're receiving this email because you signed up for a Zoom account. If you wish to be removed from our email list, <a style="color: #9B91B0" href="#">unsubscribe</a>.</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
